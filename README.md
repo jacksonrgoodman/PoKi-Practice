@@ -1,4 +1,5 @@
-# PoKi-Practice
+# PoKi-Practice 📓🏣🚸
+<img src="./PoKi dark more clear.png" alt="erd"/>
 SQL Practice Project for NSS Cohort 47
 ## Installation
 gitclone this repository
